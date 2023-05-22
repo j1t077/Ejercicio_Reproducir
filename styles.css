@@ -1,0 +1,226 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: gray;
+    padding: 15px;
+}
+
+.centrado{
+    margin-left: 360px;
+}
+.contenedor {
+    padding: 0 60px;
+}
+.contenedor1, .contenedor2 {
+    flex-basis: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.img1 {
+    width: 90px;
+    height: 140px;
+}
+
+.img2 {
+    width: 65px;
+    height: 90px;
+}
+
+.img1, .img2 {
+    float: left;
+    margin-right: 20px;
+}
+
+p {
+   font-size: 20px;
+}
+
+.colores{
+    background: url(./imagenes/board-wood.jpg);
+    width: 100%;
+    height: 80%;
+    padding-bottom: 10px;
+}
+
+table{
+    border: black 1px solid;
+}
+.verde{
+    background-color: green;
+    text-align: center;
+    height: 100px;
+    margin-bottom: 0;
+}
+
+.verde h2 {
+    background-color: green;
+}
+
+.negro{
+    background-color: black;
+    width: 208px;
+    height: 80px;
+}
+.teal{
+    background-color: teal;
+    width: 210px;
+    height: 80px;
+
+}
+.blue{
+    background-color: blue;
+    width: 210px;
+    height: 80px;
+}
+.navy{
+    background-color: navy;
+    width: 180px;
+    height: 80px;
+}
+.lime{
+    background-color: lime;
+    width: 680px;
+    height: 80px;
+}
+.white{
+    background-color: white;
+    width: 180px;
+    height: 80px;
+}
+
+.purpura{
+    background-color: purple;
+    width: 205px;
+    height: 80px;
+}
+.amarillo{
+    background-color: yellow;
+    width: 195px;
+    height: 80px;
+}
+
+.oliva{
+    background-color: olive;
+    width: 210px;
+    height: 80px;
+}
+
+.rojo{
+    background-color: red;
+    width: 180px;
+    height: 80px;
+}
+.negro2{
+    background-color: black;
+    width: 680px;
+    height: 80px;
+}
+.gris{
+    background-color: gray;
+    width: 180px;
+    height: 80px;
+}
+.oliva2{
+    background-color: olive;
+    width: 160px;
+    height: 80px;
+}
+
+.rojo2{
+    background-color: red;
+    width: 160px;
+    height: 80px;
+}
+
+.fuchsia{
+    background-color: fuchsia;
+    width: 160px;
+    height: 80px;
+}
+
+.verde2{
+    background-color: green;
+    width: 800px;
+    height: 100px;
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+  }
+
+  .palabras{
+    background-color: rgb(16, 29, 34);
+  }
+  
+  .negro3 {
+    color: black;
+  }
+
+  .teal3 {
+    color: teal;
+  }
+
+  .blue3 {
+    color: blue;
+  }
+
+.navy3{
+  color: navy;
+}
+.lime3{
+  color: lime;
+}
+.white3{
+  color: white;
+}
+.purpura3{
+color: purple;
+}
+
+.amarillo3{
+  color: yellow;
+}
+
+.oliva3{
+color: olive;
+}
+
+.rojo3{
+color: red;
+}
+
+.marron3{
+color: brown;
+}
+
+.gris3{
+color: gray;
+}
+
+.fuchsia3{
+color: fuchsia;
+}
+
+.verde3{
+color: green;
+}
+
+.agua3{
+color: aqua;
+}
+
+.silver3{
+  color: silver;
+}
