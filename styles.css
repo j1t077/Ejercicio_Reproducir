@@ -176,6 +176,11 @@ table{
     color: blue;
   }
 
+hr.separaSeccion {
+    border: 10px solid rgb(24, 24, 24);
+    border-radius: 5px;
+  }
+
 .navy3{
   color: navy;
 }
